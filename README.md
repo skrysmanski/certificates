@@ -8,3 +8,7 @@ Topics of interest:
 * Client certificates
 * Windows certificate handling
 * Certificate types/purposes
+* Creating certificates on:
+  * Windows
+  * Linux/macOS
+* Common certificate file formats
